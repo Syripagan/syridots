@@ -1,3 +1,4 @@
+<img width="2559" height="1439" alt="preview" src="https://github.com/user-attachments/assets/5df873c6-d603-4e49-b5ce-ea5d8f51dba7" />
 # syri dotfiles
 This is my dotfiles for quickshell and hyprland and it might be not compatible with your system. If you want to use it, adjust settings and it will work. These dotfiles are pretty simple, try to customize it and it will work nice.
 
